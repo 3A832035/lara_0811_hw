@@ -45,6 +45,13 @@
                     </svg>
                 </div>
 
+                <div style="color: white">
+                    <br>
+                    <a href="/" >首頁</a><br>
+                    <a href="/about" >關於本站</a><br>
+                    <a href="/news" style="color: red">最新消息</a><br>
+                </div>
+
                 <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
                     <div class="grid grid-cols-1 md:grid-cols-2">
                         <div class="p-6">

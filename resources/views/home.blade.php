@@ -47,8 +47,9 @@
 
                 <div style="color: white">
                     <br>
-                    <a href="localhost:8000/about" >about</a><br>
-                    <a href="news.blade.php" >news</a><br>
+                    <a href="/" style="color: red">首頁</a><br>
+                    <a href="/about" >關於本站</a><br>
+                    <a href="/news" >最新消息</a><br>
                 </div>
 
                 <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
